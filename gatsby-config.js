@@ -5,5 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Rocking with gatsby",
+    author: "mefitDev👨🏽‍💻",
+  },
   plugins: [`gatsby-plugin-sass`],
 }
